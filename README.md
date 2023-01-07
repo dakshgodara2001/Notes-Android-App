@@ -46,7 +46,3 @@ To navigate transitions between stages of the activity lifecycle, the Activity c
 ## Author
 
 * **[Daksh Godara]** - [GitHub Profile](https://github.com/dakshgodara2001)
-
-## License
-
-This project is not licensed.
