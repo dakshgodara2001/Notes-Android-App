@@ -43,6 +43,7 @@ To navigate transitions between stages of the activity lifecycle, the Activity c
 <p align="center">
 <img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screen%20Shot%202023-01-03%20at%205.33.12%20PM.png" width="400" style="background-color: #222;">
 </p>
-## Author
 
+
+## Author
 * **[Daksh Godara]** - [GitHub Profile](https://github.com/dakshgodara2001)
