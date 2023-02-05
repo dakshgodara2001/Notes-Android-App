@@ -1,7 +1,7 @@
 # Notes-Android-App
 
 Notes app for Android lets you create, edit, and organise text-based notes on your phone or tablet. Notes app makes it easy to stay organised.
-<p>
+<p align="center">
 <img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screenshot_20230103_153325.png" width="250" style="margin: 0 10px;">
  <img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screenshot_20230103_153426.png" width="250" style="margin: 0 10px;">
  <img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screenshot_20230103_153510.png" width="250" style="margin: 0 10px;">
@@ -40,9 +40,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Activity Life Cycle
 To navigate transitions between stages of the activity lifecycle, the Activity class provides a core set of six callbacks: onCreate(), onStart(), onResume(), onPause(), onStop(), and onDestroy(). The system invokes each of these callbacks as an activity enters a new state.
-
+<p align="center">
 <img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screen%20Shot%202023-01-03%20at%205.33.12%20PM.png" width="400" style="background-color: #222;">
-
+</p>
 ## Author
 
 * **[Daksh Godara]** - [GitHub Profile](https://github.com/dakshgodara2001)
