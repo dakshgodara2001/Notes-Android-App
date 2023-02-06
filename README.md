@@ -1,6 +1,7 @@
 # Notes-Android-App
 
 Notes app for Android lets you create, edit, and organise text-based notes on your phone or tablet. Notes app makes it easy to stay organised.
+
 <p align="center">
 <img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screenshot_20230103_153325.png" width="250" style="margin: 0 10px;">
  <img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screenshot_20230103_153426.png" width="250" style="margin: 0 10px;">
