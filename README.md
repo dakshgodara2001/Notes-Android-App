@@ -39,12 +39,3 @@ These instructions will get you a copy of the project up and running on your loc
 * [Kotlin](https://kotlinlang.org) - The programming language used
 * [SQLite](https://www.sqlite.org/index.html) - The database engine used
 
-## Activity Life Cycle
-To navigate transitions between stages of the activity lifecycle, the Activity class provides a core set of six callbacks: onCreate(), onStart(), onResume(), onPause(), onStop(), and onDestroy(). The system invokes each of these callbacks as an activity enters a new state.
-<p align="center">
-<img src="https://github.com/dakshgodara2001/Notes-Android-App/blob/main/images/Screen%20Shot%202023-01-03%20at%205.33.12%20PM.png" width="400" style="background-color: #222;">
-</p>
-
-
-## Author
-* **[Daksh Godara]** - [GitHub Profile](https://github.com/dakshgodara2001)
